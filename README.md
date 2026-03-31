@@ -6,7 +6,7 @@
 * **Name:** Jivanshi Rajput
 * **Registration No.:** 24BCE10609
 * **Course:** Open Source Software (Units 1–5)
-* **Slot:** A-24
+* **Slot:** E-22
 * **Submission Date:** 31-03-2026
 
 ---
